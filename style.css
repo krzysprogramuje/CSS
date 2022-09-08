@@ -1,0 +1,12 @@
+body {
+    background-color: red;
+}
+p {
+    color: yellow;
+}
+#zielony {
+    color:lightgreen;
+}
+p.szary{
+    color:gray;
+}
